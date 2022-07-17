@@ -24,6 +24,10 @@ And second # of frames
   (If no arguments provided default simulation will be of 
 50 particles for 300 frames)
 
+TO VIEW options: 
+
+ 1. Open up screen.html, after a bit of flickering, sim play smooth
+ 2. Use a video editing software to make a video of png images in img folder
 
 MAKE CLEAN removes executable and backup files: 
 	
