@@ -1,0 +1,12 @@
+body{
+background-color: white;
+
+}
+#screen{
+    width: 540px; 
+    height: 540px; 
+    background-color: blue;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+}
