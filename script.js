@@ -1,4 +1,4 @@
-let frames = 600 ;
+let frames = 48 ;
 let screen = document.getElementById("screen");
 
 
